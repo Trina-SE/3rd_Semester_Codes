@@ -1,0 +1,6 @@
+CFG =>
+S->A1B
+A->0A|E
+B->0B|1B|E
+000112
+enter a string: 
